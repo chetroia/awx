@@ -1,4 +1,4 @@
-- inventory:
+- hosts:
     - all
   tasks:
     - action: ping
