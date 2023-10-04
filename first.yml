@@ -4,3 +4,5 @@
   gather_facts: false
   tasks:
     - ping:
+  become: yes
+  become_user: ariga
