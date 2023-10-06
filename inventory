@@ -1,2 +1,2 @@
-192.168.122.156 
-192.168.122.169
+192.168.122.169   ansible_ssh_user=ariga   ansible_ssh_pass=Lumaca123
+192.168.122.156   ansible_ssh_user=ariga   ansible_ssh_pass=Lumaca123
